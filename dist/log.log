@@ -1,0 +1,463 @@
+2013-05-18 11:22:05,756 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:23:09,681 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:23:11,485 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:23:21,930 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:23:22,647 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:23:31,454 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:23:33,809 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:23:34,630 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:23:35,190 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:24:38,833 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:24:39,347 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:25:43,089 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:26:50,097 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:27:08,049 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 11:28:11,569 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:28:12,548 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:29:16,273 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:29:16,856 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:29:17,676 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:29:25,014 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 11:29:25,765 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:29:26,379 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:30:38,897 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:30:39,699 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:31:50,193 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:31:50,767 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:31:51,689 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa06.stream.aol.com
+2013-05-18 11:31:59,573 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:32:15,138 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:32:15,855 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:32:17,084 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:33:29,713 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:33:30,506 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:34:34,161 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:35:41,553 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:36:19,777 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:37:23,505 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:37:25,314 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:38:28,977 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:39:32,529 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:39:33,214 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:40:36,721 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:40:37,318 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:40:40,288 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:40:41,020 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:41:58,257 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:42:18,489 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:43:22,608 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:44:59,377 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:46:10,801 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:47:14,417 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:47:16,280 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:47:17,199 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:47:18,429 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:47:20,990 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:48:24,689 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:49:29,393 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:49:53,977 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 11:49:54,899 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 11:49:55,873 [Thread-0] ERROR common.Processor2  - java.io.FileNotFoundException: http://scfire-ntc-aa02.stream.aol.com:80/stream/1004
+2013-05-18 11:50:00,540 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 11:50:01,247 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:50:07,085 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:50:13,025 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 11:50:13,946 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 11:50:14,867 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 11:50:15,789 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 11:50:16,394 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa01.stream.aol.com
+2013-05-18 11:50:17,300 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:50:18,349 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 11:51:45,585 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:51:46,619 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 11:51:47,644 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 11:51:49,077 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 11:51:49,744 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 11:52:30,859 [Thread-0] ERROR common.Processor2  - java.net.SocketException: Connection reset
+2013-05-18 11:53:44,561 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:53:45,206 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 11:54:51,377 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:54:52,480 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:55:01,900 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 11:56:26,865 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:57:30,545 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:57:31,612 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa06.stream.aol.com
+2013-05-18 11:58:35,377 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 11:59:41,233 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:00:44,912 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:02:02,480 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:03:05,969 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:04:09,584 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:05:13,201 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:05:18,544 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:06:28,465 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:07:32,080 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:08:39,216 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:08:40,093 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:09:43,793 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:10:47,409 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:11:51,025 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:11:52,097 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:12:55,857 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:13:59,729 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:15:03,344 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:16:06,897 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:17:10,385 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:18:14,001 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:19:17,617 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:20:21,296 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:21:25,169 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:22:28,785 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:23:32,657 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:24:36,273 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:25:40,145 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:26:43,761 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:27:47,569 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:28:51,249 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:28:52,023 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:29:58,257 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:31:01,808 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:32:05,361 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:33:08,913 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:34:20,657 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:34:38,961 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:34:39,575 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:35:43,217 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:36:49,265 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:36:50,445 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 12:38:00,945 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:38:01,995 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:38:04,634 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:38:08,649 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:38:11,024 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:39:21,200 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:39:21,898 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:39:26,210 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 12:39:44,438 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 12:39:45,143 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:40:48,753 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:41:03,584 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:41:06,451 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:09,969 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:42:10,760 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:13,115 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:13,832 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:17,621 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:21,307 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:42:34,210 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:42:35,032 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 12:42:35,878 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 12:43:43,345 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:44:51,761 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:44:52,555 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:45:56,081 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:47:18,641 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:48:29,424 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:48:30,262 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:49:41,488 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:49:44,402 [Thread-0] ERROR common.Processor2  - java.io.IOException: Server returned HTTP response code: 401 for URL: http://live.str3am.com:3120/secure
+2013-05-18 12:49:46,346 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:49:51,878 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:49:58,635 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:49:59,864 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:51:06,097 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:51:07,989 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:52:25,969 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:52:26,811 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:52:27,425 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:53:31,057 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:54:34,481 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:54:38,792 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 12:55:47,057 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:55:47,699 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:56:00,665 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 12:56:01,163 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:56:09,352 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:56:16,984 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 12:57:23,185 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:58:33,521 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 12:59:36,945 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 13:01:18,257 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 13:02:21,745 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:12:58,374 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:14:01,840 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:14:03,016 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:14:09,551 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:14:09,921 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:14:17,097 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:14:18,741 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:14:19,222 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:14:19,689 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:15:23,121 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:15:23,507 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:16:26,929 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:17:33,232 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:17:50,672 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 15:18:54,065 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:18:54,576 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:19:58,001 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:19:58,422 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:19:58,927 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:20:06,130 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 15:20:06,578 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:20:06,937 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:21:17,873 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:21:18,327 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:22:27,825 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:22:28,206 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:22:28,607 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa06.stream.aol.com
+2013-05-18 15:22:34,818 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:22:47,527 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:22:47,950 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:22:48,689 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:24:01,137 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:24:01,538 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:25:04,945 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:26:11,249 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:26:42,009 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:27:45,393 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:27:46,870 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:28:50,289 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:29:53,713 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:29:54,418 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:30:58,033 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:30:58,379 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:31:00,812 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:31:01,349 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:32:17,841 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:32:20,750 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:33:24,209 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:34:33,713 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:35:39,953 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:36:43,377 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:36:44,680 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:36:45,190 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:36:45,843 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:36:47,732 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:37:51,152 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:38:55,601 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:39:13,910 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 15:39:14,320 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 15:39:14,868 [Thread-0] ERROR common.Processor2  - java.io.FileNotFoundException: http://scfire-ntc-aa02.stream.aol.com:80/stream/1004
+2013-05-18 15:39:19,269 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 15:39:19,830 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:39:24,068 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:39:27,121 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 15:39:27,473 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 15:39:27,824 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 15:39:28,173 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 15:39:28,523 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa01.stream.aol.com
+2013-05-18 15:39:29,148 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:39:29,509 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 15:40:49,392 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:40:49,766 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 15:40:50,113 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 15:40:50,475 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 15:40:50,835 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 15:41:17,445 [Thread-0] ERROR common.Processor2  - java.net.SocketException: Connection reset
+2013-05-18 15:42:28,849 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:42:29,575 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:43:38,800 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:43:39,507 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:43:46,726 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 15:45:11,153 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:46:14,641 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:46:15,055 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa06.stream.aol.com
+2013-05-18 15:47:18,513 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:48:24,561 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:49:27,985 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:50:39,984 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:51:44,561 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:52:47,985 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:53:51,409 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:53:55,459 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:55:03,153 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:56:06,641 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:57:12,944 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:57:13,467 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 15:58:16,881 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 15:59:20,305 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 16:00:23,729 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 16:00:24,433 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 16:01:27,857 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:34:15,376 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:35:18,881 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:35:20,006 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:35:25,722 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:35:26,092 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:35:32,888 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:35:34,613 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:35:35,093 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:35:35,552 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:36:38,944 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:36:39,320 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:37:42,752 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:38:49,440 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:39:07,073 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 19:40:10,528 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:40:11,163 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:41:14,592 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:41:14,991 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:41:15,495 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:41:22,645 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 19:41:23,082 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:41:23,442 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:42:36,512 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:42:36,955 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:43:46,848 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:43:47,244 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:43:47,640 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa06.stream.aol.com
+2013-05-18 19:43:52,997 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:44:06,415 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:44:06,832 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:44:07,518 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:45:19,392 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:45:19,800 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:46:23,201 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:47:29,440 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:47:59,714 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:49:03,136 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:49:04,897 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:50:08,352 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:51:11,776 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:51:12,474 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:52:15,904 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:52:16,260 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:52:18,115 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:52:18,531 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:53:35,200 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:53:38,786 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:54:42,272 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:55:52,416 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:56:59,232 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:58:03,104 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 19:58:04,401 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:58:04,952 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 19:58:05,696 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:58:06,777 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 19:59:10,240 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:00:14,752 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:00:32,070 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 20:00:32,469 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 20:00:33,015 [Thread-0] ERROR common.Processor2  - java.io.FileNotFoundException: http://scfire-ntc-aa02.stream.aol.com:80/stream/1004
+2013-05-18 20:00:37,406 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 20:00:38,376 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:00:42,875 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:00:46,282 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 20:00:46,631 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa03.stream.aol.com
+2013-05-18 20:00:47,060 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 20:00:47,473 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 20:00:47,821 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa01.stream.aol.com
+2013-05-18 20:00:48,570 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:00:48,929 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 20:02:08,992 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:02:09,358 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa02.stream.aol.com
+2013-05-18 20:02:09,704 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa03.stream.aol.com
+2013-05-18 20:02:10,068 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 20:02:10,464 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 20:02:37,761 [Thread-0] ERROR common.Processor2  - java.net.SocketException: Connection reset
+2013-05-18 20:03:53,632 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:03:54,113 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:05:01,536 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:05:02,215 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:05:09,787 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:06:35,360 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:07:38,784 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:07:39,203 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa06.stream.aol.com
+2013-05-18 20:08:42,592 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:09:47,808 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:10:51,232 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:12:04,064 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:13:07,488 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:14:10,912 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:15:14,400 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:15:20,360 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:16:30,816 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:17:34,240 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:18:40,736 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:18:41,330 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:19:44,736 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:20:48,160 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:21:51,584 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:21:52,307 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:22:55,712 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:23:59,136 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:25:02,560 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:26:06,048 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:27:09,472 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:28:12,960 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:29:16,384 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:30:19,808 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:31:23,232 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:32:26,720 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:33:30,208 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:34:33,632 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:35:37,056 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:36:40,480 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:37:43,904 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:38:47,520 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:38:48,028 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:39:55,616 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:40:59,040 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:42:02,465 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:43:05,888 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:44:14,944 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:44:19,457 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:44:19,841 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:45:23,297 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:46:28,704 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:46:29,106 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 20:47:38,209 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:47:38,678 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:47:39,142 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:47:39,608 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:47:40,073 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:48:44,768 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:48:45,139 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:48:49,434 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 20:49:07,673 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 20:49:08,182 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:50:11,552 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:50:25,285 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:50:27,016 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:30,400 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:51:30,990 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:32,740 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:33,146 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:35,625 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:37,107 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:51:43,672 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:51:44,208 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-dtc-aa03.stream.aol.com
+2013-05-18 20:51:44,611 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-ntc-aa04.stream.aol.com
+2013-05-18 20:52:51,680 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:53:58,112 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:53:58,552 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:55:01,984 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:56:20,768 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:57:29,568 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:57:29,952 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:58:41,120 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:58:42,904 [Thread-0] ERROR common.Processor2  - java.io.IOException: Server returned HTTP response code: 401 for URL: http://live.str3am.com:3120/secure
+2013-05-18 20:58:44,365 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:58:47,520 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:58:51,666 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 20:58:52,323 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 20:59:57,408 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 20:59:58,969 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:01:15,233 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:01:15,617 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:01:15,998 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:02:19,425 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:03:22,848 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:03:27,166 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-05-18 21:04:36,704 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:04:37,262 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:04:48,944 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-05-18 21:04:49,443 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:04:53,685 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:05:01,138 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-05-18 21:06:07,328 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:07:16,704 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:08:20,128 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:10:01,504 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-05-18 21:11:04,928 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
