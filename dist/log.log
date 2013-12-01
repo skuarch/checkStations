@@ -461,3 +461,69 @@
 2013-05-18 21:08:20,128 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
 2013-05-18 21:10:01,504 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
 2013-05-18 21:11:04,928 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:36:45,639 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:38:53,080 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:38:57,576 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-08-02 18:41:05,048 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:41:05,371 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:43:13,176 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:45:20,536 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:47:28,024 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:47:29,541 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:47:29,719 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:47:34,383 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:47:35,157 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:47:35,491 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-08-02 18:47:35,816 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-08-02 18:49:43,192 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:49:43,483 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:51:50,936 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:53:59,448 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:54:16,626 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-08-02 18:56:24,088 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:58:31,576 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 18:58:31,780 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:58:31,973 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:58:32,273 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:58:32,489 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 18:58:37,369 [Thread-0] ERROR common.Processor2  - java.net.SocketTimeoutException: connect timed out
+2013-08-02 18:58:37,694 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-08-02 18:58:37,907 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:00:48,792 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:02:56,280 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:02:56,512 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:05:09,912 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:05:10,160 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:05:10,454 [Thread-0] ERROR common.Processor2  - java.net.UnknownHostException: scfire-mtc-aa06.stream.aol.com
+2013-08-02 19:05:14,084 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:07:28,280 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:07:30,854 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:07:31,189 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:07:31,663 [Thread-0] ERROR common.Processor2  - java.io.IOException: Invalid Http response
+2013-08-02 19:07:32,227 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:09:39,608 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:09:39,827 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:11:47,224 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:13:56,504 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:16:04,248 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:18:11,736 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:18:12,375 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:20:19,735 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:22:27,224 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:22:27,573 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:24:34,968 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection timed out
+2013-08-02 19:24:35,206 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:24:35,999 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-02 19:24:36,216 [Thread-0] ERROR common.Processor2  - java.net.ConnectException: Connection refused
+2013-08-03 20:16:58,559 [Thread-0] WARN org.hibernate.engine.jdbc.internal.JdbcServicesImpl  - HHH000342: Could not obtain connection to query metadata : Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-03 20:17:04,795 [Thread-0] WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08001
+2013-08-03 20:17:04,796 [Thread-0] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-03 20:17:04,803 [Thread-0] ERROR common.Processor2  - java.lang.Exception: org.hibernate.exception.JDBCConnectionException: Could not open connection
+2013-08-04 22:41:16,260 [Thread-0] WARN org.hibernate.engine.jdbc.internal.JdbcServicesImpl  - HHH000342: Could not obtain connection to query metadata : Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-04 22:47:46,041 [Thread-0] WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08001
+2013-08-04 22:47:46,094 [Thread-0] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-04 22:47:46,542 [Thread-0] ERROR common.Processor2  - java.lang.Exception: org.hibernate.exception.JDBCConnectionException: Could not open connection
+2013-08-05 09:33:49,743 [Thread-0] WARN org.hibernate.engine.jdbc.internal.JdbcServicesImpl  - HHH000342: Could not obtain connection to query metadata : Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-05 09:40:16,557 [Thread-0] WARN org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - SQL Error: 0, SQLState: 08001
+2013-08-05 09:40:16,558 [Thread-0] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper  - Could not create connection to database server. Attempted reconnect 3 times. Giving up.
+2013-08-05 09:40:16,564 [Thread-0] ERROR common.Processor2  - java.lang.Exception: org.hibernate.exception.JDBCConnectionException: Could not open connection
